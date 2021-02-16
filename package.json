@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/rcowe/star-wars-api/issues"
   },
-  "homepage": "https://github.com/rcowe/star-wars-api#readme"
+  "homepage": "https://github.com/rcowe/star-wars-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
 }
